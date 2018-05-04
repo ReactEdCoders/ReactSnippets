@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import style from './style';
 import marked from '../node_modules/marked'
-//updated file path for this project---> if erros persist try deleting
+//updated file path for this project---> if errors persist try deleting
 
 
 class Snippet extends Component {

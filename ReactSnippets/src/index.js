@@ -7,7 +7,8 @@ import SnippetBox from './snippetbox';
 
 ReactDOM.render(
   <SnippetBox  
-  url = 'http://localhost:3000/api/snippets'
-  pollInterval = {2000} />, 
+  //url = 'http://localhost:3000/api/reactedsnippets'
+  //pollInterval = {20000} 
+  />, 
   document.getElementById('root')
 );
